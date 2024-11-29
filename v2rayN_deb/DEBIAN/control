@@ -1,0 +1,10 @@
+Package: v2rayN
+Version: 1.0
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: Your Name <your.email@example.com>
+Description: A simple proxy network.
+Section: default
+Homepage: https://v2rayN.com/
+License: unknown

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=v2rayN
+Exec=/usr/local/bin/v2rayN/v2rayN %U
+Terminal=false
+Type=Application
+Icon=v2rayN
+StartupWMClass=v2rayN
+Comment=v2rayN by plankton
+Categories=Utility;
+
