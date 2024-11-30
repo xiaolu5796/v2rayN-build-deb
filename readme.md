@@ -2,7 +2,7 @@
 下载到本地后，执行
 
 ```bash
-dpkg -b pack_deb/ v2rayN_amd64.deb
+dpkg -b v2rayN_amd64/ v2rayN_amd64.deb
 ```
 v2rayN_amd64.deb 成功生成到当前目录
 
